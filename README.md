@@ -66,24 +66,21 @@ Selecione Review + create e depois de ver a resposta Validation Success , seleci
 
 ![Imagem0_3](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0_3.PNG)
 
+Aqui você pode ver a tela depois do Deploy do recurso do AI Search
 
-![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_2.PNG)
+![Imagem0_4](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0_4.PNG)
 
 Após a conclusão da implantação, selecione Ir para o recurso . Na página de visão geral do Azure AI Search, você pode adicionar índices, importar dados e pesquisar índices criados.
 
-![Imagem3](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_3.PNG)
-
-![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_4.PNG)
-
 ## Passo 2 - Criar um recurso de serviços de IA do Azure
-
-![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1.PNG)
-
 
 Você precisará provisionar um recurso de serviços de IA do Azure que esteja no mesmo local que seu recurso do Azure AI Search. Sua solução de pesquisa usará esse recurso para enriquecer os dados no armazenamento de dados com insights gerados por IA.
 
-Retorne à página inicial do portal do Azure. Clique no botão ＋Criar um recurso e pesquise os serviços de IA do Azure . Selecione criar um plano de serviços de IA do Azure . Você será 
-levado a uma página para criar um recurso de serviços de IA do Azure. Configure-o com as seguintes configurações:
+Retorne à página inicial do portal do Azure. Clique no botão ＋Criar um recurso e pesquise os serviços de IA do Azure. Selecione criar um plano de serviços de IA do Azure 
+
+![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1.PNG)
+
+Você será levado a uma página para criar um recurso de serviços de IA do Azure. Configure-o com as seguintes configurações:
 
 - Assinatura : sua assinatura do Azure .
 - Grupo de recursos : O mesmo grupo de recursos que seu recurso do Azure AI Search .
@@ -96,6 +93,23 @@ levado a uma página para criar um recurso de serviços de IA do Azure. Configur
 Selecione Revisar + criar . Depois de ver a resposta Validation Passed , selecione Create .
 
 Aguarde a conclusão da implantação e visualize os detalhes da implantação.
+
+
+![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_2.PNG)
+
+
+![Imagem3](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_3.PNG)
+
+
+
+![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_4.PNG)
+
+
+
+
+
+
+
 
 ## Passo 3 - Criar a conta de armazenamento 
 
