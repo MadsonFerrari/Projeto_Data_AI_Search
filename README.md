@@ -176,4 +176,8 @@ Em uma nova guia do navegador, baixe as avaliações de café compactadas em htt
 
 - No contêiner, selecione Carregar (*Upload*).
 
-  ![Imagem16](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_16.png)
+![Imagem16](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_16.png)
+
+- Clique na caixa de escolha de arquivos e selecione todos os arquivos de review Salvo e clique em **carregar** (*Upload*)  
+
+![Imagem17](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_17.png)
