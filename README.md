@@ -229,7 +229,7 @@ Sua tela deve ficar parecida com esta.
 
 ![Imagem25](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_25.PNG)
 
-Selecione Next: Add cognitive skills (Optional) *Próximo: Adicionar habilidades cognitivas (opcional)* .
+Selecione *Next: Add cognitive skills (Optional)* (Próximo: Adicionar habilidades cognitivas (opcional)) .
 
 Na secção Anexar Serviços Cognitivos , selecione o seu recurso de serviços Azure AI.
 
