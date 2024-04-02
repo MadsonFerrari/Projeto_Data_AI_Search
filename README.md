@@ -204,19 +204,32 @@ Agora já criamos todos os recursos e o container está com dados, vamos partir 
 
 ![Imagem21](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_22.PNG)
 
+Vai abrir a tela de conexão de dados
+
+![Imagem23](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_23.PNG)
+
 Preencha os detalhes do armazenamento de dados com os seguintes valores:
 
-- Fonte de dados : Armazenamento de Blobs do Azure
-- Nome da fonte de dados : coffee-customer-data
-- Dados a extrair : Conteúdo e metadados
-- Modo de análise : Padrão
-- Cadeia de conexão : *Selecione Escolha uma conexão existente . Selecione sua conta de armazenamento, selecione o contêiner de avaliações de café e clique em Selecionar .
-- Autenticação de identidade gerenciada : Nenhuma
-- Nome do contêiner : esta configuração é preenchida automaticamente depois que você escolhe uma conexão existente .
-- Pasta Blob : deixe em branco .
-- Descrição : Avaliações sobre Fourth Coffee Shops.
+- Data Source: Azure Blob Storage
+- Data source name: coffee-customer-data
+- Data to extract: Content and metadata
+- Parsing mode: Default
+- Connection string: *Selecione *Choose an existing connection*. Selecione a sua conta de storage, selecione o container *coffeereviews*, e então clique Select.
 
-Selecione Próximo: Adicionar habilidades cognitivas (opcional) .
+![Imagem24](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_24.PNG)
+
+Continue preenchendo os dados restantes conforme abaixo:
+
+- Managed identity authentication: None
+- Container name: Esta escolha é colocada automaticamente após escolher a conexão.
+- Blob folder: Deixe em branco.
+- Description: Reviews for Fourth Coffee shops.
+
+Sua tela deve ficar parecida com esta.
+
+![Imagem25](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_25.PNG)
+
+Selecione Next: Add cognitive skills (Optional) *Próximo: Adicionar habilidades cognitivas (opcional)* .
 
 Na secção Anexar Serviços Cognitivos , selecione o seu recurso de serviços Azure AI.
 
