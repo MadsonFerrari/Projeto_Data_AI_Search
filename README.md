@@ -64,6 +64,9 @@ Vai aparecer a tela de criação do recurso do AI Search.
 
 Selecione Review + create e depois de ver a resposta Validation Success , selecione Create .
 
+![Imagem0_3](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0_3.PNG)
+
+
 ![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_2.PNG)
 
 Após a conclusão da implantação, selecione Ir para o recurso . Na página de visão geral do Azure AI Search, você pode adicionar índices, importar dados e pesquisar índices criados.
