@@ -46,10 +46,12 @@ Nota Os recursos do Azure AI Search e dos serviços Azure AI devem estar no mesm
 
 Entre no portal do [Azure](https://portal.azure.com/#home)
 
-![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0.PNG)
+![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0.PNG)
 
 
 Clique no botão + Criar um recurso , pesquise Azure AI Search e crie um recurso Azure AI Search com as seguintes configurações:
+
+![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1.PNG)
 
 - Assinatura : sua assinatura do Azure .
 - Grupo de recursos : Selecione ou crie um grupo de recursos com um nome exclusivo .
@@ -58,5 +60,7 @@ Clique no botão + Criar um recurso , pesquise Azure AI Search e crie um recurso
 - Nível de preços : Básico
 
 Selecione Review + create e depois de ver a resposta Validation Success , selecione Create .
+
+![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_2.PNG)
 
 Após a conclusão da implantação, selecione Ir para o recurso . Na página de visão geral do Azure AI Search, você pode adicionar índices, importar dados e pesquisar índices criados.
