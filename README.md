@@ -16,7 +16,7 @@ Olá pessoal, eu sou Madson Ferrari, Engenheiro eletricista, pós graduado em Me
 
 - A primeira etapa foi assitir ao módulo de Document Intelligence do curso da DIO dentro do bootcamp AI-900
 
-Neste passo-a-passo vou te mostrar como explorar um índice no Azure Search Index.
+## Neste passo-a-passo vou te mostrar como explorar um índice no Azure Search Index.
 
 Este exemplo está no on leraning do Azure e você pode acessar a versão original [aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
 
@@ -24,15 +24,39 @@ Vamos imaginar que você trabalha para a Fourth Coffee, uma rede nacional de caf
 
 Neste laboratório você irá:
 
-Criar recursos do Azure
-Extrair dados de uma fonte de dados
-Enriqueça os dados com habilidades de IA
-Utilize o indexador do Azure no portal do Azure
-Consulte seu índice de pesquisa
-Revise os resultados salvos em uma Loja de conhecimento
+- Criar recursos do Azure
+- Extrair dados de uma fonte de dados
+- Enriqueça os dados com habilidades de IA
+- Utilize o indexador do Azure no portal do Azure
+- Consulte seu índice de pesquisa
+- Revise os resultados salvos em uma Loja de conhecimento
+
+## Recursos do Azure necessários
+
+A solução que você criará para o Fourth Coffee requer os seguintes recursos na sua assinatura do Azure:
+
+- Um recurso do Azure AI Search , que gerenciará a indexação e a consulta.
+- Um recurso de serviços de IA do Azure , que fornece serviços de IA para habilidades que sua solução de pesquisa pode usar para enriquecer os dados na fonte de dados com insights gerados por IA.
+
+Nota Os recursos do Azure AI Search e dos serviços Azure AI devem estar no mesmo local!
+
+- Uma conta de armazenamento com contêineres de blobs, que armazenará documentos brutos e outras coleções de tabelas, objetos ou arquivos.
+
+## Passo 1 - Criando um recurso no Azure AI Search
+
+Entre no portal do [Azure](https://portal.azure.com/#home)
+
+![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0.PNG)
 
 
+Clique no botão + Criar um recurso , pesquise Azure AI Search e crie um recurso Azure AI Search com as seguintes configurações:
 
-## Considerações finais
+- Assinatura : sua assinatura do Azure .
+- Grupo de recursos : Selecione ou crie um grupo de recursos com um nome exclusivo .
+- Nome do serviço : um nome exclusivo .
+- Localização : Escolha qualquer região disponível .
+- Nível de preços : Básico
 
-### As ferramentas do Azure demonstraram que estão preparadas para o uso em diversos projetos e que conseguem um acerto muito alto tanto na detecção de faces como de texto. Isto mostra que os desenvolvedores possuem recursos inimagináveis para desenvolver aplicações de altíssimo nível e precisão.
+Selecione Review + create e depois de ver a resposta Validation Success , selecione Create .
+
+Após a conclusão da implantação, selecione Ir para o recurso . Na página de visão geral do Azure AI Search, você pode adicionar índices, importar dados e pesquisar índices criados.
