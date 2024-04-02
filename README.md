@@ -48,15 +48,16 @@ Entre no portal do [Azure](https://portal.azure.com/#home)
 
 ![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0.PNG)
 
+Clique no botão + Criar um recurso , pesquise Azure AI Search (ou clique em + para ver mais recursos) e crie um recurso Azure AI Search com as seguintes configurações:
 
-Clique no botão + Criar um recurso , pesquise Azure AI Search e crie um recurso Azure AI Search com as seguintes configurações:
+![Imagem0_1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0_1.PNG)
 
 ![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1.PNG)
 
 - Assinatura : sua assinatura do Azure .
 - Grupo de recursos : Selecione ou crie um grupo de recursos com um nome exclusivo .
 - Nome do serviço : um nome exclusivo .
-- Localização : Escolha EASTUS.
+- Localização : Escolha EAST US.
 - Nível de preços : Escolha Free se estiver disponível ou Standard S0
 
 Selecione Review + create e depois de ver a resposta Validation Success , selecione Create .
