@@ -185,3 +185,42 @@ Em uma nova guia do navegador, baixe as avaliações de café compactadas em htt
 - Os arquivos irão aparecer no container
 
 ![Imagem18](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_18.png)
+
+Agora já criamos todos os recursos e o container está com dados, vamos partir para a verificação destes reviews
+
+- Clique na caixa superior e escolha o AI Search
+
+![Imagem19](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_19.png)
+ 
+- Clique no nosso recurso criado anteriormente no AI Search para abrir o mesmo.
+
+![Imagem20](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_20.PNG)
+
+- Agora clique em importar dados (*Import Data*), para importar o container criado
+
+![Imagem21](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_21.PNG) 
+
+- Na página Conectar-se aos seus dados , na lista Fonte de Dados , selecione Azure Blob Storage .
+
+![Imagem21](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_22.PNG)
+
+Preencha os detalhes do armazenamento de dados com os seguintes valores:
+
+- Fonte de dados : Armazenamento de Blobs do Azure
+- Nome da fonte de dados : coffee-customer-data
+- Dados a extrair : Conteúdo e metadados
+- Modo de análise : Padrão
+- Cadeia de conexão : *Selecione Escolha uma conexão existente . Selecione sua conta de armazenamento, selecione o contêiner de avaliações de café e clique em Selecionar .
+- Autenticação de identidade gerenciada : Nenhuma
+- Nome do contêiner : esta configuração é preenchida automaticamente depois que você escolhe uma conexão existente .
+- Pasta Blob : deixe em branco .
+- Descrição : Avaliações sobre Fourth Coffee Shops.
+
+Selecione Próximo: Adicionar habilidades cognitivas (opcional) .
+
+Na secção Anexar Serviços Cognitivos , selecione o seu recurso de serviços Azure AI.
+
+Na seção Adicionar enriquecimentos :
+- Altere o nome da qualificação para coffee-skillset .
+- Marque a caixa de seleção Habilitar OCR e mesclar todo o texto no campo merged_content 
+
