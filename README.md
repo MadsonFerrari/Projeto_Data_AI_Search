@@ -56,11 +56,13 @@ Clique no botão + Criar um recurso , pesquise Azure AI Search e crie um recurso
 - Assinatura : sua assinatura do Azure .
 - Grupo de recursos : Selecione ou crie um grupo de recursos com um nome exclusivo .
 - Nome do serviço : um nome exclusivo .
-- Localização : Escolha qualquer região disponível .
-- Nível de preços : Básico
+- Localização : Escolha EASTUS.
+- Nível de preços : Escolha Free se estiver disponível ou Standard S0
 
 Selecione Review + create e depois de ver a resposta Validation Success , selecione Create .
 
 ![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_2.PNG)
 
 Após a conclusão da implantação, selecione Ir para o recurso . Na página de visão geral do Azure AI Search, você pode adicionar índices, importar dados e pesquisar índices criados.
+
+1[Imagem3](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_3.PNG)
