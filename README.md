@@ -96,8 +96,29 @@ Selecione Revisar + criar .
 
 Depois de ver a resposta Validation Passed , selecione Create .
 
-
 Aguarde a conclusão da implantação e visualize os detalhes da implantação.
+
+![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_2.PNG)
+
+## Passo 3 - Criar a conta de armazenamento 
+
+Click em Home e Retorne à página inicial do portal do Azure e selecione o botão + Criar um recurso .
+
+![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0.PNG)
+
+Procure conta de armazenamento e crie um recurso de conta de armazenamento com as seguintes configurações:
+
+- Assinatura : sua assinatura do Azure .
+- Grupo de recursos : O mesmo grupo de recursos que os recursos do Azure AI Search e dos serviços Azure AI .
+- Nome da conta de armazenamento : um nome exclusivo .
+- Localização : Escolha EAST US2 .
+- Padrão de desempenho
+- Redundância : armazenamento localmente redundante (LRS)
+
+Clique em Revisar e em Criar . Aguarde a conclusão da implantação e vá para o recurso implantado.
+
+Na conta de Armazenamento do Azure que você criou, no painel de menu esquerdo, selecione Configuração (em Configurações ).
+Altere a configuração de Permitir acesso anônimo de Blob para Habilitado e selecione Salvar .
 
 
 ![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_2.PNG)
@@ -116,22 +137,3 @@ Aguarde a conclusão da implantação e visualize os detalhes da implantação.
 
 
 
-## Passo 3 - Criar a conta de armazenamento 
-
-Click em Home e Retorne à página inicial do portal do Azure e selecione o botão + Criar um recurso .
-
-![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0.PNG)
-
-Procure conta de armazenamento e crie um recurso de conta de armazenamento com as seguintes configurações:
-
-- Assinatura : sua assinatura do Azure .
-- Grupo de recursos : O mesmo grupo de recursos que os recursos do Azure AI Search e dos serviços Azure AI .
-- Nome da conta de armazenamento : um nome exclusivo .
-- Localização : Escolha EAST US .
-- Padrão de desempenho
-- Redundância : armazenamento localmente redundante (LRS)
-
-Clique em Revisar e em Criar . Aguarde a conclusão da implantação e vá para o recurso implantado.
-
-Na conta de Armazenamento do Azure que você criou, no painel de menu esquerdo, selecione Configuração (em Configurações ).
-Altere a configuração de Permitir acesso anônimo de Blob para Habilitado e selecione Salvar .
