@@ -104,7 +104,7 @@ Aguarde a conclusão da implantação e visualize os detalhes da implantação.
 
 Click em Home e Retorne à página inicial do portal do Azure e selecione o botão + Criar um recurso .
 
-![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0.PNG)
+![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_3.PNG)
 
 Procure conta de armazenamento e crie um recurso de conta de armazenamento com as seguintes configurações:
 
