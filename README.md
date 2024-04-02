@@ -248,3 +248,20 @@ E selecione os Enrichments conforme marcado na figura abaixo.
 
 ![Imagem27](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_27.PNG)
 
+Abra a guia de **Save enrichments to a knowledge store** e escolha:
+
+- Image projections
+- Documents
+- Pages
+- Key phrases
+- Entities
+- Image details
+- Image references
+
+Nota: Se aparecer uma mensagem de **Connection Storage** quando você clicar em **Image Projections**, então escolha **Choose a existing Connection** e selecione a sua **storage account** e o **container** criados anteriormente e clique **Select**
+
+Selecione Azure blob projections: **Document** 
+A caixa do Container Name vai aparecer já escrita com o container. Não altere este nome.
+
+![Imagem28](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_28.PNG)
+
