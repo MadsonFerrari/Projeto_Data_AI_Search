@@ -104,9 +104,14 @@ Aguarde a conclusão da implantação e visualize os detalhes da implantação.
 
 Click em Home e Retorne à página inicial do portal do Azure e selecione o botão + Criar um recurso .
 
+Procure conta de armazenamento e crie um recurso de conta de armazenamento
+
 ![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_3.PNG)
 
-Procure conta de armazenamento e crie um recurso de conta de armazenamento com as seguintes configurações:
+![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_4.PNG)
+
+
+Use as as seguintes configurações:
 
 - Assinatura : sua assinatura do Azure .
 - Grupo de recursos : O mesmo grupo de recursos que os recursos do Azure AI Search e dos serviços Azure AI .
