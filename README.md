@@ -130,7 +130,12 @@ Clique em Revisar e em Criar . Aguarde a conclusão da implantação e vá para 
 
 ![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_7.PNG)
 
-Na conta de Armazenamento do Azure que você criou, no painel de menu esquerdo, selecione Configuração (em Configurações ).
+Tela do recurso de Storage
+
+![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_8.PNG)
+
+Na conta de Armazenamento do Azure que você criou (tela acima), role no painel de menu esquerdo e selecione Configuração.
+
 Altere a configuração de Permitir acesso anônimo de Blob para Habilitado e selecione Salvar .
 
 
