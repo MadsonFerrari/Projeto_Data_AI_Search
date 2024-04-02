@@ -66,3 +66,21 @@ Selecione Review + create e depois de ver a resposta Validation Success , seleci
 Após a conclusão da implantação, selecione Ir para o recurso . Na página de visão geral do Azure AI Search, você pode adicionar índices, importar dados e pesquisar índices criados.
 
 ![Imagem3](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_3.PNG)
+
+## Passo 2 - Criar a conta de armazenamento 
+
+Retorne à página inicial do portal do Azure e selecione o botão + Criar um recurso .
+
+Procure conta de armazenamento e crie um recurso de conta de armazenamento com as seguintes configurações:
+
+- Assinatura : sua assinatura do Azure .
+- Grupo de recursos : O mesmo grupo de recursos que os recursos do Azure AI Search e dos serviços Azure AI .
+- Nome da conta de armazenamento : um nome exclusivo .
+- Localização : Escolha EAST US .
+- Padrão de desempenho
+- Redundância : armazenamento localmente redundante (LRS)
+
+Clique em Revisar e em Criar . Aguarde a conclusão da implantação e vá para o recurso implantado.
+
+Na conta de Armazenamento do Azure que você criou, no painel de menu esquerdo, selecione Configuração (em Configurações ).
+Altere a configuração de Permitir acesso anônimo de Blob para Habilitado e selecione Salvar .
