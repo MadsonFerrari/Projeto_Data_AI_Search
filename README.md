@@ -59,8 +59,8 @@ Vai aparecer a tela de criação do recurso do AI Search.
 - Assinatura : sua assinatura do Azure .
 - Grupo de recursos : Selecione ou crie um grupo de recursos com um nome exclusivo .
 - Nome do serviço : um nome exclusivo .
-- Localização : Escolha EAST US.
-- Nível de preços : Escolha Free se estiver disponível ou Standard S0
+- Localização : Escolha EAST US2.
+- Nível de preços : Escolha Basic
 
 Selecione Review + create e depois de ver a resposta Validation Success , selecione Create .
 
