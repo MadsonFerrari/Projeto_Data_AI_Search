@@ -67,9 +67,32 @@ Após a conclusão da implantação, selecione Ir para o recurso . Na página de
 
 ![Imagem3](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_3.PNG)
 
-## Passo 2 - Criar a conta de armazenamento 
+![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_4.PNG)
 
-Retorne à página inicial do portal do Azure e selecione o botão + Criar um recurso .
+## Passo 2 - Criar um recurso de serviços de IA do Azure
+
+Você precisará provisionar um recurso de serviços de IA do Azure que esteja no mesmo local que seu recurso do Azure AI Search. Sua solução de pesquisa usará esse recurso para enriquecer os dados no armazenamento de dados com insights gerados por IA.
+
+Retorne à página inicial do portal do Azure. Clique no botão ＋Criar um recurso e pesquise os serviços de IA do Azure . Selecione criar um plano de serviços de IA do Azure . Você será 
+levado a uma página para criar um recurso de serviços de IA do Azure. Configure-o com as seguintes configurações:
+
+- Assinatura : sua assinatura do Azure .
+- Grupo de recursos : O mesmo grupo de recursos que seu recurso do Azure AI Search .
+- Região : o mesmo local do recurso do Azure AI Search .
+- Nome : Um nome exclusivo .
+- Nível de preços : Padrão S0
+
+- Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo : Selecionado
+
+Selecione Revisar + criar . Depois de ver a resposta Validation Passed , selecione Create .
+
+Aguarde a conclusão da implantação e visualize os detalhes da implantação.
+
+## Passo 3 - Criar a conta de armazenamento 
+
+Click em Home e Retorne à página inicial do portal do Azure e selecione o botão + Criar um recurso .
+
+![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0.PNG)
 
 Procure conta de armazenamento e crie um recurso de conta de armazenamento com as seguintes configurações:
 
