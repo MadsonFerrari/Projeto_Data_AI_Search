@@ -136,11 +136,11 @@ Tela do recurso de Storage
 
 Na conta de Armazenamento do Azure que você criou (tela acima), role no painel de menu esquerdo e selecione Configuração.
 
-![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_9.PNG)
+![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_9.png)
 
 Altere a configuração de Permitir acesso anônimo de Blob para Habilitado e selecione Salvar .
 
-![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_10.PNG)
+![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_10.png)
 
 ## Passo 4 - Carregar documentos para o armazenamento do Azure
 
@@ -148,7 +148,7 @@ Vamos agora trazer arquivos para oos nossos Containers. Que são como Gavetas nu
 
 - Secione no lasto esquerdo ***Containers***
 
-![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_11.PNG)
+![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_11.png)
 
 
 
