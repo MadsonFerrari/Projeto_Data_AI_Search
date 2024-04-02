@@ -163,8 +163,17 @@ Avançado : sem alterações .
 
 - E clique em CREATE para criar o container
 
+![Image13](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_13.png)
 
+Em uma nova guia do navegador, baixe as avaliações de café compactadas em https://aka.ms/mslearn-coffee-reviews e extraia os arquivos para a pasta de avaliações (reviews) no seu computador.
 
-Em uma nova guia do navegador, baixe as avaliações de café compactadas em https://aka.ms/mslearn-coffee-reviews e extraia os arquivos para a pasta de avaliações .
+![Imagem14](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_14.png)
 
-No portal do Azure, selecione o contêiner de avaliações de café . No contêiner, selecione Carregar .
+- Agora vamos carregar as avaliações para dentro do nosso container.
+- No portal do Azure, selecione o contêiner do cofeereview que você acabou de criar.
+
+![Imagem15](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_15.png)
+
+- No contêiner, selecione Carregar (*Upload*).
+
+  ![Imagem16](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_16.png)
