@@ -150,6 +150,21 @@ Vamos agora trazer arquivos para oos nossos Containers. Que são como Gavetas nu
 
 ![Imagem0](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_11.png)
 
+- Vamos adicionar um container.
+
+- Selecione + Contêiner . Um painel do seu lado direito é aberto.
+
+Insira as seguintes configurações e clique em Criar :
+Nome : coffeereviews
+Nível de acesso público : Container (acesso de leitura anônimo para containers e blobs)
+Avançado : sem alterações .
+
+![Imagem12](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_12.png)
+
+- E clique em CREATE para criar o container
 
 
 
+Em uma nova guia do navegador, baixe as avaliações de café compactadas em https://aka.ms/mslearn-coffee-reviewse extraia os arquivos para a pasta de avaliações .
+
+No portal do Azure, selecione o contêiner de avaliações de café . No contêiner, selecione Carregar .
