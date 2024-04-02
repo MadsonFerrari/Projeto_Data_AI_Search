@@ -52,7 +52,9 @@ Clique no botão + Criar um recurso , pesquise Azure AI Search (ou clique em + p
 
 ![Imagem0_1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0_1.PNG)
 
-![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1.PNG)
+Vai aparecer a tela de criação do recurso do AI Search.
+
+![Imagem0_2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_0_2.PNG)
 
 - Assinatura : sua assinatura do Azure .
 - Grupo de recursos : Selecione ou crie um grupo de recursos com um nome exclusivo .
@@ -71,6 +73,9 @@ Após a conclusão da implantação, selecione Ir para o recurso . Na página de
 ![Imagem2](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_4.PNG)
 
 ## Passo 2 - Criar um recurso de serviços de IA do Azure
+
+![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1.PNG)
+
 
 Você precisará provisionar um recurso de serviços de IA do Azure que esteja no mesmo local que seu recurso do Azure AI Search. Sua solução de pesquisa usará esse recurso para enriquecer os dados no armazenamento de dados com insights gerados por IA.
 
