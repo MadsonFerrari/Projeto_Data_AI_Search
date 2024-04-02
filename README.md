@@ -65,4 +65,4 @@ Selecione Review + create e depois de ver a resposta Validation Success , seleci
 
 Após a conclusão da implantação, selecione Ir para o recurso . Na página de visão geral do Azure AI Search, você pode adicionar índices, importar dados e pesquisar índices criados.
 
-1[Imagem3](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_3.PNG)
+![Imagem3](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_3.PNG)
