@@ -231,9 +231,20 @@ Sua tela deve ficar parecida com esta.
 
 Selecione *Next: Add cognitive skills (Optional)* (Próximo: Adicionar habilidades cognitivas (opcional)) .
 
-Na secção Anexar Serviços Cognitivos , selecione o seu recurso de serviços Azure AI.
+Na secção **Attach Cognitive Services** , selecione o seu recurso de serviços Azure AI.
 
-Na seção Adicionar enriquecimentos :
-- Altere o nome da qualificação para coffee-skillset .
-- Marque a caixa de seleção Habilitar OCR e mesclar todo o texto no campo merged_content 
+![Imagem26](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_26.PNG)
+
+Minmize a aba de **Attach Cognitive Services**
+
+Na seção **Add enrichments** :
+- Altere o **Skillset name** para **coffee-skillset** .
+- Marque a caixa de seleção **Habilitar OCR e mesclar todo o texto no campo merged_content** 
+- Certifique-se de que **Source data field** esteja configurado como **merged_content** .
+- Altere o nível de granularidade de enriquecimento para Páginas (blocos de 5.000 caracteres) .
+- Não selecione Habilitar enriquecimento incremental
+
+E selecione os Enrichments conforme marcado na figura abaixo.
+
+![Imagem27](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_27.PNG)
 
