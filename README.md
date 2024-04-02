@@ -90,7 +90,12 @@ Você será levado a uma página para criar um recurso de serviços de IA do Azu
 
 - Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo : Selecionado
 
-Selecione Revisar + criar . Depois de ver a resposta Validation Passed , selecione Create .
+Selecione Revisar + criar . 
+
+![Imagem1](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_1.PNG)
+
+Depois de ver a resposta Validation Passed , selecione Create .
+
 
 Aguarde a conclusão da implantação e visualize os detalhes da implantação.
 
