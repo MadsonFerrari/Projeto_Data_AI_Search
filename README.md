@@ -165,6 +165,6 @@ Avançado : sem alterações .
 
 
 
-Em uma nova guia do navegador, baixe as avaliações de café compactadas em https://aka.ms/mslearn-coffee-reviewse extraia os arquivos para a pasta de avaliações .
+Em uma nova guia do navegador, baixe as avaliações de café compactadas em https://aka.ms/mslearn-coffee-reviews e extraia os arquivos para a pasta de avaliações .
 
 No portal do Azure, selecione o contêiner de avaliações de café . No contêiner, selecione Carregar .
