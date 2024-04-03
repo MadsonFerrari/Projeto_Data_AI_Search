@@ -308,6 +308,6 @@ Vericando se a cadeia está ON
 
 Aqui fazemos uma pesquisa por Chicago. Role a tela para ver o resultados
 
-1[Image35](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_35.PNG)
+![Image35](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_35.PNG)
 
 
