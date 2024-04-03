@@ -323,3 +323,5 @@ Aqui fazemos uma pesquisa por Chicago. Role a tela para ver o resultados
  "count": true
 }
 ```
+Podemos ver que resulta em duas avaliações negativas conforme a tela abaixo:
+
