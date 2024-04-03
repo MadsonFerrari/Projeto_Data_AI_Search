@@ -314,4 +314,12 @@ Aqui fazemos uma pesquisa por Chicago. Role a tela para ver o resultados
 
 - Clicando na opção de JSON, podemos usar o editor de Query com o seguinte código e ao clicar Search resulta em todos os documentos da base de dados
 
+![Imagem36](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_36.PNG)
 
+- Agora vamos filtrar por sentimento. No campo do editor de consultas JSON , copie e cole:
+```
+{
+ "search": "sentiment:'negative'",
+ "count": true
+}
+```
