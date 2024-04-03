@@ -310,4 +310,8 @@ Aqui fazemos uma pesquisa por Chicago. Role a tela para ver o resultados
 
 ![Image35](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_35.PNG)
 
+## Fazendo a pesquisa em JSON
+
+- Clicando na opção de JSON, podemos usar o editor de Query com o seguinte código e ao clicar Search resulta em todos os documentos da base de dados
+
 
