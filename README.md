@@ -326,3 +326,35 @@ Aqui fazemos uma pesquisa por Chicago. Role a tela para ver o resultados
 Podemos ver que resulta em duas avaliações negativas conforme a tela abaixo:
 
 ![Imagem37](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_37.PNG)
+
+## Revise o armazenamento de conhecimento
+
+Vamos ver o poder do armazenamento de conhecimento em ação. Ao executar o assistente Importar dados , você também criou um armazenamento de conhecimento. Dentro do armazenamento de conhecimento, você encontrará os dados enriquecidos extraídos pelas habilidades de IA que persistem na forma de projeções e tabelas.
+
+- No portal do Azure, navegue de volta para a sua conta de armazenamento do Azure.
+
+![Imagem38](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_38.PNG)
+
+- No painel do menu esquerdo, selecione **Containers** . Selecione o contêiner de **knowledge-store** .
+
+![Imagem39](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_39.PNG)
+
+![Imagem40](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_40.PNG)
+
+- Selecione qualquer um dos itens e clique no arquivo objectprojection.json .
+
+![Imagem41](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_41.PNG)
+
+- Selecione Editar para ver o JSON produzido para um dos documentos do seu armazenamento de dados do Azure.
+
+![Imagem42](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_42.PNG)
+
+- Selecione a localização atual do blob de armazenamento no canto superior esquerdo da tela para retornar à conta de armazenamento Containers .
+
+- Em Containers , selecione o contêiner coffee-skillset-image-projection . Selecione qualquer um dos itens.
+
+![Imagem43](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_43.PNG)
+
+- Selecione qualquer um dos arquivos .jpg . Selecione Editar para ver a imagem armazenada no documento. Observe como todas as imagens dos documentos são armazenadas desta forma.
+
+![Imagem42](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_44.PNG)
