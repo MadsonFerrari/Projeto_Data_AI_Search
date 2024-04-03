@@ -325,3 +325,4 @@ Aqui fazemos uma pesquisa por Chicago. Role a tela para ver o resultados
 ```
 Podemos ver que resulta em duas avaliações negativas conforme a tela abaixo:
 
+![Imagem37](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_37.PNG)
