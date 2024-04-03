@@ -265,3 +265,35 @@ A caixa do Container Name vai aparecer já escrita com o container. Não altere 
 
 ![Imagem28](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_28.PNG)
 
+Clique **Next: Customize target index**. Escolha o Index name para **coffee-index**.
+
+Confirme que **Key** está com a opção **metadata_storage_path**. Deixe o **Suggester name** em branco e **Search mode** auto preenchido.
+
+Reveja os ajustes padrões do campo de **index fields**. Selecione **filterable** para todos os campos que já estiverem marcados por padrão.
+
+Veja a figura abaixo para conferir
+
+![Imagem29](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_29.PNG)
+
+Selecione **Next: Create an indexer**.
+
+Troque o **Indexer name** para **coffee-indexer**.
+
+Deixe o **Schedule** marcado como **Once**.
+
+![Imagem30](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_30.PNG)
+
+Expanda o **Advanced options**. Certifique que a opção **Base-64 Encode Keys** está selecionada, pois as chaves de codificação podem tornar o índice mais eficiente.
+
+![Imagem31](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_31.PNG)
+
+Selecione **Submit** para criar a fonte de dados, o conjunto de habilidades, o índice e o indexador. O indexador é executado automaticamente e executa o pipeline de indexação, que:
+- Extrai os campos de metadados do documento e o conteúdo da fonte de dados.
+- Executa o conjunto de habilidades cognitivas para gerar campos mais enriquecidos.
+- Mapeia os campos extraídos para o índice.
+
+
+
+Volte à página de recursos do Azure AI Search. No painel esquerdo, em **Search Management** , selecione **Indexers** . Selecione o **coffee-indexer** recém-criado . Espere um minuto e selecione ↻ Atualize até que o **Status** indique sucesso.
+
+Selecione o nome do indexador para ver mais detalhes.
