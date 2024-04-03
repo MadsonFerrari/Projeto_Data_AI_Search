@@ -306,6 +306,8 @@ Vericando se a cadeia está ON
 
 ![Imagem34](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_34.PNG)
 
+Aqui fazemos uma pesquisa por Chicago. Role a tela para ver o resultados
+
+1[Image35](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_35.PNG)
 
 
-Selecione o nome do indexador para ver mais detalhes.
