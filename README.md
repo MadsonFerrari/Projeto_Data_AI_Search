@@ -292,8 +292,20 @@ Selecione **Submit** para criar a fonte de dados, o conjunto de habilidades, o �
 - Executa o conjunto de habilidades cognitivas para gerar campos mais enriquecidos.
 - Mapeia os campos extraídos para o índice.
 
+Volte à página de recursos do Azure AI Search. No painel esquerdo, em **Search Management** , selecione **Indexers** 
+
+![Imagem32](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_32.PNG)
+
+Selecione o **coffee-indexer** recém-criado.
+
+![Imagem33](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_33.PNG)
+
+Espere um minuto e selecione ↻ Atualize até que o **Status** indique sucesso.
+
+Vericando se a cadeia está ON
+
+![Imagem34](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_34.PNG)
 
 
-Volte à página de recursos do Azure AI Search. No painel esquerdo, em **Search Management** , selecione **Indexers** . Selecione o **coffee-indexer** recém-criado . Espere um minuto e selecione ↻ Atualize até que o **Status** indique sucesso.
 
 Selecione o nome do indexador para ver mais detalhes.
