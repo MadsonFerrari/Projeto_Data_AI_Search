@@ -358,3 +358,21 @@ Vamos ver o poder do armazenamento de conhecimento em ação. Ao executar o assi
 - Selecione qualquer um dos arquivos .jpg . Selecione Editar para ver a imagem armazenada no documento. Observe como todas as imagens dos documentos são armazenadas desta forma.
 
 ![Imagem42](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_44.PNG)
+
+Selecione a localização atual do blob de armazenamento no canto superior esquerdo da tela para retornar à conta de armazenamento Containers .
+
+Selecione **Storage Browser** no painel esquerdo e selecione Tabelas . Há uma tabela para cada entidade no índice. Selecione a tabela coffeeSkillsetKeyPhrases .
+
+![Imagem45](https://github.com/MadsonFerrari/Projeto_Data_AI_Search/blob/main/Telas/Tela_1_45.PNG)
+
+Observe as frases-chave que o armazenamento de conhecimento conseguiu capturar do conteúdo das avaliações. Muitos dos campos são chaves, portanto você pode vincular as tabelas como um banco de dados relacional. O último campo mostra as frases-chave que foram extraídas pelo conjunto de habilidades.
+
+# Limpeza do sistema.
+
+Faça a limpeza e exclusão dos recursos criados para evitar cobranças
+
+## Conclusão e Insights
+
+As ferramentas de AI do Azure são muito funcionais e conseguem automatizar tarefas que seriam praticamente impossíveis de se fazer manualmente, pois demandariam muito tempo e teriam uma taxa de erro muito alta se executada manualmente.
+
+
